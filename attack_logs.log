@@ -1,0 +1,45 @@
+2024-12-11 23:15:47,733 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-11 23:15:47,733 - [33mPress CTRL+C to quit[0m
+2024-12-11 23:16:54,107 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-11 23:16:54,107 - [33mPress CTRL+C to quit[0m
+2024-12-11 23:16:54,109 -  * Restarting with stat
+2024-12-11 23:16:54,585 -  * Debugger is active!
+2024-12-11 23:16:54,585 -  * Debugger PIN: 280-911-039
+2024-12-11 23:16:59,408 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-11 23:16:59,408 - [33mPress CTRL+C to quit[0m
+2024-12-11 23:16:59,408 -  * Restarting with stat
+2024-12-11 23:16:59,955 -  * Debugger is active!
+2024-12-11 23:16:59,955 -  * Debugger PIN: 280-911-039
+2024-12-11 23:19:16,867 -  * Detected change in 'C:\\Users\\mishr\\OneDrive\\Desktop\\web_protection_tool\\examples\\flask_app.py', reloading
+2024-12-11 23:19:16,921 -  * Restarting with stat
+2024-12-11 23:19:17,695 -  * Debugger is active!
+2024-12-11 23:19:17,698 -  * Debugger PIN: 280-911-039
+2024-12-11 23:19:22,761 - 127.0.0.1 - - [11/Dec/2024 23:19:22] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-12-11 23:19:28,376 - 127.0.0.1 - - [11/Dec/2024 23:19:28] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-12-11 23:20:16,069 -  * Detected change in 'C:\\Users\\mishr\\OneDrive\\Desktop\\web_protection_tool\\examples\\flask_app.py', reloading
+2024-12-11 23:20:16,139 -  * Restarting with stat
+2024-12-11 23:20:16,695 -  * Debugger is active!
+2024-12-11 23:20:16,695 -  * Debugger PIN: 280-911-039
+2024-12-11 23:20:24,901 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-11 23:20:24,902 - [33mPress CTRL+C to quit[0m
+2024-12-11 23:20:24,904 -  * Restarting with stat
+2024-12-11 23:20:25,409 -  * Debugger is active!
+2024-12-11 23:20:25,416 -  * Debugger PIN: 280-911-039
+2024-12-11 23:22:05,051 -  * Detected change in 'C:\\Users\\mishr\\OneDrive\\Desktop\\web_protection_tool\\examples\\flask_app.py', reloading
+2024-12-11 23:22:05,118 -  * Restarting with stat
+2024-12-11 23:22:05,629 -  * Debugger is active!
+2024-12-11 23:22:05,637 -  * Debugger PIN: 280-911-039
+2024-12-11 23:22:18,768 -  * Debugger is active!
+2024-12-11 23:22:18,768 -  * Debugger PIN: 280-911-039
+2024-12-11 23:23:11,855 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.74.31:5000
+2024-12-11 23:23:11,855 - [33mPress CTRL+C to quit[0m
+2024-12-11 23:23:11,855 -  * Restarting with stat
+2024-12-11 23:23:12,567 -  * Debugger is active!
+2024-12-11 23:23:12,567 -  * Debugger PIN: 280-911-039
